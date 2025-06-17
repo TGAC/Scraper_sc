@@ -47,7 +47,7 @@ export GPT_KEY=your-openai-api-key
 
     Run the script:
 
-python extract_metadata.py
+python extract_metadata_to_manifest.py
 
 The script will:
 
